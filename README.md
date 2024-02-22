@@ -1,8 +1,18 @@
-# React + Vite
+# Inventory Management Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Getting Started
 
-Currently, two official plugins are available:
+These instructions will help you set up the project on your local machine for development and testing purposes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Prerequisites
+
+Make sure you have Node.js and npm (Node Package Manager) installed on your machine. You can download and install them from the [official Node.js website](https://nodejs.org/).
+
+### Installing
+
+1. In your code editor, navigate to the project directory.
+2. Run the following command to install all the dependencies:
+
+```bash
+npm install and then to run the project write command {npm run dev}
+```
